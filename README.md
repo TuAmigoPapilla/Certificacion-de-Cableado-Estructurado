@@ -14,7 +14,7 @@ Verificar que todo cumpla con los estándares TIA/EIA-568, que son importantes p
 
 Documentar los resultados de estas pruebas utilizando Git y Markdown, para que podamos seguir el progreso y revisar los resultados de manera clara y organizada.
 
-🗂️Contenido
+Contenido
 
 parametros.md: Esto es donde se explican las definiciones técnicas.
 
