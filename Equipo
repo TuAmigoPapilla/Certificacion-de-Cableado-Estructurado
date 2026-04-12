@@ -3,7 +3,8 @@
 Equipo Utilizado: Certificadora de Red
 
 Auto-Test:
-Ejecuta automáticamente todas las pruebas necesarias según la categoría del cable (Cat 5e, Cat 6), entregando un resultado PASS o FAIL.{
+Ejecuta automáticamente todas las pruebas necesarias según la categoría del cable (Cat 5e, Cat 6), entregando un resultado PASS o FAIL.
+
 ![image alt](https://github.com/TuAmigoPapilla/Imagenes/blob/709a48b45e3bc21dd2d7a77ea64429813bce16a3/Auto-Test.png)
 
 Verificación de PoE
