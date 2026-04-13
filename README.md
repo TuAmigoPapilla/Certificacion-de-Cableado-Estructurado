@@ -20,3 +20,6 @@ pruebas.md: En este archivo se presentan los resultados y el análisis de las pr
 Desarrollo
 
 Se eligieron varios puntos de la red en el laboratorio para hacer pruebas de certificación. Se comprobó que el cableado estuviera en buen estado, que las conexiones fueran correctas, que no hubiera interferencias y que la conectividad funcionara bien.
+
+
+![image alt](https://github.com/TuAmigoPapilla/Imagenes/blob/6fe59a19ce5dced8ef2c19d621ac215732c0c225/Portada.png)
